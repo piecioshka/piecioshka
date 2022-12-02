@@ -1,8 +1,8 @@
 # Piotr Kowalski — @piecioshka
 
-:wave: Hi! I'm a developer living in Warsaw, Poland. I started working in 2008.
-I love Open Source :green_heart: On my GitHub profile, you can find a lot of
-utility projects. Currently, I am working in Sumo Logic as a Senior Engineer.
+:wave: Hi! I'm a developer living in Warsaw, Poland. I started my professional career in 2008.<br/>
+I love Open Source :green_heart: You can find a lot of utility projects on my GitHub profile.<br/>
+Currently, I work as a Senior Engineer for [Sumo Logic](https://www.sumologic.com/).
 
 ## What do I like about "software engineering"?
 
