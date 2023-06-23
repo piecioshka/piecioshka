@@ -2,7 +2,10 @@
 
 :wave: Hi! I'm a developer living in Warsaw, Poland. I started my professional career in 2008.<br/>
 I love Open Source :green_heart: You can find a lot of utility projects on my GitHub profile.<br/>
-Currently, I work as a Senior Engineer for [Sumo Logic](https://www.sumologic.com/).
+
+## Loking for a job
+
+Currently I'm looking for a job as a **Senior Frontend Developer**.
 
 ## What do I like about "software engineering"?
 
