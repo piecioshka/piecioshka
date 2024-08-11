@@ -1,8 +1,7 @@
 # Piotr Kowalski — @piecioshka
 
 :wave: Hi! I'm a developer living in Warsaw, Poland. I started my professional career in 2008.<br/>
-I love Open Source :green_heart: You can find a lot of utility projects on my GitHub profile.<br/>
-I work as a UI Engineer for [Netflix](https://www.netflix.com/).
+I love Open Source :green_heart: You can find a lot of utility projects on my GitHub profile.
 
 ## What do I like about "software engineering"?
 
@@ -15,10 +14,10 @@ I work as a UI Engineer for [Netflix](https://www.netflix.com/).
 ## Get in touch :mailbox:
 
 * :point_right: Twitter: <https://twitter.com/piecioshka>
-* Facebook: <https://facebook.com/piecioshka.dev>
-* Instagram: <https://instagram.com/piecioshka>
-* YouTube: <https://youtube.com/piecioshka>
 * LinkedIn: <https://linkedin.com/in/piecioshka/>
+* YouTube: <https://youtube.com/piecioshka>
+* Facebook (developer page): <https://facebook.com/piecioshka.dev>
+* Instagram (my photos): <https://instagram.com/piecioshka>
 * Blog (in Polish): <https://piecioshka.pl/blog/>
 
 ---
