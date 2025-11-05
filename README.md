@@ -13,17 +13,13 @@ I love Open Source 💚 You can find a lot of utility projects on my GitHub prof
 
 ## Get in touch 📬
 
-- 🇺🇸: [YT](https://www.youtube.com/@piecioshka_dev) • [X](https://x.com/piecioshka)
-- 🇵🇱: [YT](https://www.youtube.com/@piecioshka) • [LI](https://www.linkedin.com/in/piecioshka/) • [FB](https://www.facebook.com/piecioshka.dev) • [Blog](https://piecioshka.pl/blog/)
+- 🇺🇸 — [YouTube](https://www.youtube.com/@piecioshka_dev) • [X](https://x.com/piecioshka)
+- 🇵🇱 — [YouTube](https://www.youtube.com/@piecioshka) • [LinkedIn](https://www.linkedin.com/in/piecioshka/) • [Facebook](https://www.facebook.com/piecioshka.dev) • [Blog](https://piecioshka.pl/blog/)
 
 ## Hobbies
 
-- 📷 Photography
-  - [Instagram](https://www.instagram.com/piecioshka)
-  - [FB](https://facebook.com/piecioshka.foto)
-  - [LI](https://www.linkedin.com/company/piecioshka-fotografia/)
-- 🦋 Origami
-  - [YT](https://www.youtube.com/@piecioshka_origami)
+- 📷 Photography — [Instagram](https://www.instagram.com/piecioshka) • [Facebook](https://facebook.com/piecioshka.foto) • [LinkedIn](https://www.linkedin.com/company/piecioshka-fotografia/)
+- 🦋 Origami — [YouTube](https://www.youtube.com/@piecioshka_origami)
 
 ---
 
