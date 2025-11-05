@@ -13,8 +13,8 @@ I love Open Source 💚 You can find a lot of utility projects on my GitHub prof
 
 ## Get in touch 📬
 
-- 🇺🇸 — [YouTube](https://www.youtube.com/@piecioshka_dev) • [X](https://x.com/piecioshka)
-- 🇵🇱 — [YouTube](https://www.youtube.com/@piecioshka) • [LinkedIn](https://www.linkedin.com/in/piecioshka/) • [Facebook](https://www.facebook.com/piecioshka.dev) • [Blog](https://piecioshka.pl/blog/)
+- 🇺🇸 — [YouTube](https://www.youtube.com/@piecioshka_dev) • [X](https://x.com/piecioshka) • [LinkedIn](https://www.linkedin.com/in/piecioshka/)
+- 🇵🇱 — [YouTube](https://www.youtube.com/@piecioshka) • [Facebook](https://www.facebook.com/piecioshka.dev) • [Blog](https://piecioshka.pl/blog/)
 
 ## Hobbies
 
