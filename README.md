@@ -16,6 +16,8 @@ I build code that's easy to maintain, extend, and trust. I love Open Source 💚
 Want to understand Git internals in under 20 minutes? Start here:
 
 - 📽️ [Secret Git Similarity Index](https://www.youtube.com/watch?v=AjVLY-oPkDc) @ piecioshka_dev
+- 📽️ [Anatomy of ".git/" folder — How Git Really Works Under the Hood](https://www.youtube.com/watch?v=rzwyDeRlLdE) @ piecioshka_dev
+- 📽️ [SonarQube in 10min — How companies control code quality?](https://www.youtube.com/watch?v=y4L8_Ie8oj8) @ piecioshka_dev
 
 <details>
 <summary>More talks — practical knowledge, no fluff (all in Polish 🇵🇱)</summary>
